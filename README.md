@@ -78,8 +78,10 @@
  </details>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=its-mahi.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-mahi&style=for-the-badge" alt="">
+</p>
 
 
 <p align="center">
