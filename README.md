@@ -20,4 +20,8 @@
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
   </a>
   
+  <a href="https://codeforces.com/profile/its_mahi">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  </a>
+  
 </p>
