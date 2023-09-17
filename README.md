@@ -77,9 +77,9 @@
 
  </details>
 
-<p align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/its-mahi/count.svg)
-</p>
+
 
 
 <p align="center">
