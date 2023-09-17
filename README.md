@@ -78,7 +78,7 @@
  </details>
 
 
-![Visitor Count](https://profile-counter.glitch.me/its-mahi/count.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=its-mahi.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
 
