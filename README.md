@@ -40,48 +40,134 @@
 
 
 
+### 🚀 Languages
 
-<details>
-  <summary>  <b> 💻 Competencies </b></summary>
-  <br>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="c++" title="c++" />
+      <br>C ++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45" height="45" alt="c#" title="c#" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
+      <br>CSS
+    </td>
+  </tr>
+</table>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 💻 Libraries & Framework
+<table align="center">
+  <tr>
+   <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/nodejs.png" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="expressjs" title="expressjs" />
+      <br>Expressjs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="django" title="django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
+      <br>NextJs
+    </td>
+  </tr>
+</table>
 
+### 🧑🏻‍💻 Tools & Platform
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
- </details>
-
+<table align="center">
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" title="Aws" />
+      <br>AWS
+    </td>
+     <td align="center" width="90">
+      <img src="https://img.icons8.com/doodle/48/github--v1.png" width="45" height="45" alt="Github" title="Github" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=render" width="45" height="45" alt="Render" title="Render" />
+      <br>Render
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png" width="45" height="45" alt="MongoDb" title="MongoDb" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" title="Mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/postman-api.png" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman 
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" title="Docker" />
+      <br>Docker
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="45" height="45" alt="Vscode" title="Vscode" />
+      <br>Vscode
+    </td>    
+  </tr>
+</table>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=its-mahi&style=for-the-badge" alt="">
 </p>
+
+
+<hr>
+<h2> ✍️ Random Dev Quote </h2>
+ <table align="center">
+  <tr>
+    <td>
+      <img src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
+    </td>
+  </tr>
+ </table>
+<hr>
 
 
 <p align="center">
